@@ -1,0 +1,24 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "Testing github actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clayton-jones/github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clayton-jones/github-actions/issues"
+  },
+  "homepage": "https://github.com/clayton-jones/github-actions#readme",
+  "dependencies": {
+    "jest": "^25.3.0"
+  }
+}
